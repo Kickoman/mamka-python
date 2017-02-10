@@ -1,0 +1,35 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+import cgi
+import sys
+import os
+import json
+import get_post
+
+err = open('err.log', 'a')
+
+def enc_print(string='', encoding='utf8'):
+    sys.stdout.buffer.write(string.encode(encoding) + b'\n')
+
+def get_content(path):
+    content = ""
+    with open(path) as content_file:
+        content = content_file.read()
+    return content
+
+default_content = get_content('../defaults/post_page.html')
+
+
+form = cgi.FieldStorage()
+postid = form.getfirst('post', 0)
+
+value = get_post.getPost(int(postid))
+
+sys.stderr.write('Printing site...\n')
+### PRINTING SITE
+enc_print('Content-type: text/html\n')
+enc_print(default_content.format(**value))
+
+os.system('python3 cgi-bin/second_file.py')
+err.close()

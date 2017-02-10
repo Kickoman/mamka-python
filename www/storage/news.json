@@ -1,0 +1,153 @@
+{
+    "news" : [
+        {
+            "id" : 0,
+            "title" : "ZeroID post",
+            "value" : "What to do if i alone",
+            "author" : "me"
+        },
+
+        {
+            "id" : 1,
+            "title" : "OneID post",
+            "value" : "I don't know what she is doing now on maths",
+            "author" : "me"
+        },
+
+        {
+            "id" : 2,
+            "title" : "Your Mother",
+            "value" : "My brother",
+            "author" : "My killer"
+        },
+
+        {
+            "id" : 3,
+            "title" : "About mood",
+            "value" : "You just need to burn with my brain",
+            "author" : "your mother"
+        },
+        {
+            "id" : 4,
+            "title" : "What to do to become nice guy",
+            "value" : "You just need to burn with my brain",
+            "author" : "your mother"
+        },
+        {
+            "id" : 5,
+            "title" : "Туман",
+            "value" : "Туман, туман.<br>Окутал землю вновь.<br>Далеко, далеко<br>За туманами любовь<br>",
+            "author" : "Гражданская оборона"
+        },
+        {
+            "id" : 6,
+            "title" : "Как же всё заебало",
+            "value" : "Хочу сдохнуть",
+            "author" : "Лучше бы и не рождался"
+        },
+        {
+            "id" : 7,
+            "title" : "Как листовка, так и я",
+            "value" : "Новые родятся да командиры - <br> это хорошо, это так и надо<br>что бы ни сказали - не станем спорить<br>что бы ни дарили - не станем верить",
+            "author" : "Гражданская оборона"
+        },
+        {
+            "id" : 8,
+            "title" : "О, пошли вы все нахуй",
+            "value" : "Жратый народище мацает свет,<br>Пузырные жопы, лихие дела<br>Я в лужу упал, чтоб не видеть ваш нет<br>Но там отражаются ваши тела",
+            "author" : "Гражданская оборона"
+        },
+        {
+            "id" : 9,
+            "title" : "Люди",
+            "value" : "Люди ми тільки тоді, як дуже сильно любимо.<br>Тільки тоді, коли любимо мы, можемо зватись людьми",
+            "author" : "Бумбокс"
+        },
+        {
+            "id" : 10,
+            "title" : "kurwa",
+            "value" : "отстой",
+            "author" : "ненавижу жизнь"
+        },
+        {
+            "id" : 11,
+            "title" : "Повеситься",
+            "value" : "Неплохой выбор",
+            "author" : "размышления"
+        },
+
+        {
+            "id" : 12,
+            "title" : "Нахуй вообще вставал сегодня",
+            "value" : "лучше бы меня тогда таки сбила машина",
+            "author" : "По крайней мере, обо мне бы все вспомнили"
+        },
+
+        {
+            "id" : 13,
+            "title" : "kekpas",
+            "value" : "lelpas",
+            "author" : "mdapas"
+        },
+        {
+            "id" : 14,
+            "title" : "kekpas",
+            "value" : "lelpas",
+            "author" : "mdapas"
+        },
+        {
+            "id" : 15,
+            "title" : "kekpas",
+            "value" : "lelpas",
+            "author" : "mdapas"
+        },
+        {
+            "id" : 16,
+            "title" : "kekpas",
+            "value" : "lelpas",
+            "author" : "mdapas"
+        },
+        {
+            "id" : 17,
+            "title" : "kekpas",
+            "value" : "lelpas",
+            "author" : "mdapas"
+        },
+        {
+            "id" : 18,
+            "title" : "kekpas",
+            "value" : "lelpas",
+            "author" : "mdapas"
+        },
+        {
+            "id" : 19,
+            "title" : "kekpas",
+            "value" : "lelpas",
+            "author" : "mdapas"
+        },
+        {
+            "id" : 20,
+            "title" : "kekpas",
+            "value" : "lelpas",
+            "author" : "mdapas"
+        },
+        {
+            "id" : 21,
+            "title" : "kekpas",
+            "value" : "lelpas",
+            "author" : "mdapas"
+        },
+        {
+            "id" : 22,
+            "title" : "kekpas",
+            "value" : "lelpas",
+            "author" : "mdapas"
+        },
+        {
+            "id" : 23,
+            "title" : "kekpas",
+            "value" : "lelpas",
+            "author" : "mdapas"
+        }
+    ]
+}

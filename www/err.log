@@ -1,0 +1,760 @@
+
+
+{'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}
+
+
+
+{'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}
+
+
+
+{'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}
+
+
+
+
+[{'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}]
+
+
+
+
+{'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}
+
+
+
+{'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}
+
+
+
+{'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}
+
+
+
+
+[{'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+[{'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+[{'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+TEXT:
+0
+
+
+
+
+[{'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+TEXT:
+2
+
+TEXT:
+2
+
+TEXT:
+2
+
+
+
+
+[{'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+[{'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+[{'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+[{'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+[{'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+[{'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+[{'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+[{'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+[{'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+[{'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 3, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+[{'postid': 13, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 7, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 6, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+[{'postid': 13, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 7, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 6, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+[{'postid': 13, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 7, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 6, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a>... <a href="index.py?page=13">13</a>
+</span>
+
+
+
+
+
+[{'postid': 13, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 7, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 6, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a>... <a href="index.py?page=2.3">2.3</a>
+</span>
+
+
+
+
+
+[{'postid': 13, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 7, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 6, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a>
+</span>
+
+
+
+
+
+[{'postid': 13, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 7, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 6, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a>
+</span>
+
+
+
+
+
+[{'postid': 13, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 7, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 6, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+[{'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+<span class="pagebar">
+    <a href="index.py?page=1">1</a> 2 
+</span>
+
+
+
+
+
+<span class="pagebar">
+    <a href="index.py?page=1">1</a> 2 
+</span>
+
+
+
+
+
+[{'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a>
+</span>
+
+
+
+
+
+[{'postid': 13, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 7, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 6, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a>
+</span>
+
+
+
+
+
+[{'postid': 13, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 7, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 6, 'title': 'Туман', 'value': 'Туман, туман.<br>Окутал землю вновь.<br>Далеко, далеко<br>За туманами любовь<br>', 'author': 'your mother'}, {'postid': 5, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a>
+</span>
+
+
+
+
+
+[{'postid': 13, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 7, 'title': 'Как же всё заебало', 'value': 'Хочу сдохнуть', 'author': 'Лучше бы и не рождался'}, {'postid': 6, 'title': 'Туман', 'value': 'Туман, туман.<br>Окутал землю вновь.<br>Далеко, далеко<br>За туманами любовь<br>', 'author': 'Гражданская оборона'}, {'postid': 5, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a>
+</span>
+
+
+
+
+
+[{'postid': 13, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'Как листовка, так и я', 'value': 'Новые родятся да командиры - <br> это хорошо, это так и надо<br>что бы ни сказали - не станем спорить<br>что бы ни дарили - не станем верить', 'author': 'your mother'}, {'postid': 7, 'title': 'Как же всё заебало', 'value': 'Хочу сдохнуть', 'author': 'Лучше бы и не рождался'}, {'postid': 6, 'title': 'Туман', 'value': 'Туман, туман.<br>Окутал землю вновь.<br>Далеко, далеко<br>За туманами любовь<br>', 'author': 'Гражданская оборона'}, {'postid': 5, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a>
+</span>
+
+
+
+
+
+[{'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 7, 'title': 'Как листовка, так и я', 'value': 'Новые родятся да командиры - <br> это хорошо, это так и надо<br>что бы ни сказали - не станем спорить<br>что бы ни дарили - не станем верить', 'author': 'your mother'}, {'postid': 6, 'title': 'Как же всё заебало', 'value': 'Хочу сдохнуть', 'author': 'Лучше бы и не рождался'}, {'postid': 5, 'title': 'Туман', 'value': 'Туман, туман.<br>Окутал землю вновь.<br>Далеко, далеко<br>За туманами любовь<br>', 'author': 'Гражданская оборона'}, {'postid': 4, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 3, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a>
+</span>
+
+
+
+
+
+[{'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 9, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 8, 'title': 'О, пошли вы все нахуй', 'value': 'Жратый народище мацает свет,<br>Пузырные жопы, лихие дела<br>Я в лужу упал, чтоб не видеть ваш нет<br>Но там отражаются ваши тела', 'author': 'your mother'}, {'postid': 7, 'title': 'Как листовка, так и я', 'value': 'Новые родятся да командиры - <br> это хорошо, это так и надо<br>что бы ни сказали - не станем спорить<br>что бы ни дарили - не станем верить', 'author': 'your mother'}, {'postid': 6, 'title': 'Как же всё заебало', 'value': 'Хочу сдохнуть', 'author': 'Лучше бы и не рождался'}, {'postid': 5, 'title': 'Туман', 'value': 'Туман, туман.<br>Окутал землю вновь.<br>Далеко, далеко<br>За туманами любовь<br>', 'author': 'Гражданская оборона'}, {'postid': 4, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 3, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a>
+</span>
+
+
+
+
+
+[{'postid': 3, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'Туман', 'value': 'Туман, туман.<br>Окутал землю вновь.<br>Далеко, далеко<br>За туманами любовь<br>', 'author': 'Гражданская оборона'}, {'postid': 6, 'title': 'Как же всё заебало', 'value': 'Хочу сдохнуть', 'author': 'Лучше бы и не рождался'}, {'postid': 7, 'title': 'Как листовка, так и я', 'value': 'Новые родятся да командиры - <br> это хорошо, это так и надо<br>что бы ни сказали - не станем спорить<br>что бы ни дарили - не станем верить', 'author': 'Гражданская оборона'}, {'postid': 8, 'title': 'О, пошли вы все нахуй', 'value': 'Жратый народище мацает свет,<br>Пузырные жопы, лихие дела<br>Я в лужу упал, чтоб не видеть ваш нет<br>Но там отражаются ваши тела', 'author': 'Гражданская оборона'}, {'postid': 9, 'title': 'Люди', 'value': 'Люди ми тільки тоді, як дуже сильно любимо.<br>Тільки тоді, коли любимо мы, можемо зватись людьми', 'author': 'your mother'}, {'postid': 10, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 11, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 12, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a>
+</span>
+
+
+
+
+
+[{'postid': 3, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 4, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'Туман', 'value': 'Туман, туман.<br>Окутал землю вновь.<br>Далеко, далеко<br>За туманами любовь<br>', 'author': 'Гражданская оборона'}, {'postid': 6, 'title': 'Как же всё заебало', 'value': 'Хочу сдохнуть', 'author': 'Лучше бы и не рождался'}, {'postid': 7, 'title': 'Как листовка, так и я', 'value': 'Новые родятся да командиры - <br> это хорошо, это так и надо<br>что бы ни сказали - не станем спорить<br>что бы ни дарили - не станем верить', 'author': 'Гражданская оборона'}, {'postid': 8, 'title': 'О, пошли вы все нахуй', 'value': 'Жратый народище мацает свет,<br>Пузырные жопы, лихие дела<br>Я в лужу упал, чтоб не видеть ваш нет<br>Но там отражаются ваши тела', 'author': 'Гражданская оборона'}, {'postid': 9, 'title': 'Люди', 'value': 'Люди ми тільки тоді, як дуже сильно любимо.<br>Тільки тоді, коли любимо мы, можемо зватись людьми', 'author': 'Бумбокс'}, {'postid': 10, 'title': 'kurwa', 'value': 'отстой', 'author': 'ненавижу жизнь'}, {'postid': 11, 'title': 'Повеситься', 'value': 'Неплохой выбор', 'author': 'размышления'}, {'postid': 12, 'title': 'Нахуй вообще вставал сегодня', 'value': 'лучше бы меня тогда таки сбила машина', 'author': 'По крайней мере, обо мне бы все вспомнили'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+    <a href="index.py?page=1">1</a> 2 <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 4, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'Туман', 'value': 'Туман, туман.<br>Окутал землю вновь.<br>Далеко, далеко<br>За туманами любовь<br>', 'author': 'Гражданская оборона'}, {'postid': 6, 'title': 'Как же всё заебало', 'value': 'Хочу сдохнуть', 'author': 'Лучше бы и не рождался'}, {'postid': 7, 'title': 'Как листовка, так и я', 'value': 'Новые родятся да командиры - <br> это хорошо, это так и надо<br>что бы ни сказали - не станем спорить<br>что бы ни дарили - не станем верить', 'author': 'Гражданская оборона'}, {'postid': 8, 'title': 'О, пошли вы все нахуй', 'value': 'Жратый народище мацает свет,<br>Пузырные жопы, лихие дела<br>Я в лужу упал, чтоб не видеть ваш нет<br>Но там отражаются ваши тела', 'author': 'Гражданская оборона'}, {'postid': 9, 'title': 'Люди', 'value': 'Люди ми тільки тоді, як дуже сильно любимо.<br>Тільки тоді, коли любимо мы, можемо зватись людьми', 'author': 'Бумбокс'}, {'postid': 10, 'title': 'kurwa', 'value': 'отстой', 'author': 'ненавижу жизнь'}, {'postid': 11, 'title': 'Повеситься', 'value': 'Неплохой выбор', 'author': 'размышления'}, {'postid': 12, 'title': 'Нахуй вообще вставал сегодня', 'value': 'лучше бы меня тогда таки сбила машина', 'author': 'По крайней мере, обо мне бы все вспомнили'}, {'postid': 13, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+    <a href="index.py?page=1">1</a> <a href="index.py?page=2>2</a> 3 
+</span>
+
+
+
+
+
+[{'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 3, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+    <a href="index.py?page=1">1</a> 2 <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 4, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'Туман', 'value': 'Туман, туман.<br>Окутал землю вновь.<br>Далеко, далеко<br>За туманами любовь<br>', 'author': 'Гражданская оборона'}, {'postid': 6, 'title': 'Как же всё заебало', 'value': 'Хочу сдохнуть', 'author': 'Лучше бы и не рождался'}, {'postid': 7, 'title': 'Как листовка, так и я', 'value': 'Новые родятся да командиры - <br> это хорошо, это так и надо<br>что бы ни сказали - не станем спорить<br>что бы ни дарили - не станем верить', 'author': 'Гражданская оборона'}, {'postid': 8, 'title': 'О, пошли вы все нахуй', 'value': 'Жратый народище мацает свет,<br>Пузырные жопы, лихие дела<br>Я в лужу упал, чтоб не видеть ваш нет<br>Но там отражаются ваши тела', 'author': 'Гражданская оборона'}, {'postid': 9, 'title': 'Люди', 'value': 'Люди ми тільки тоді, як дуже сильно любимо.<br>Тільки тоді, коли любимо мы, можемо зватись людьми', 'author': 'Бумбокс'}, {'postid': 10, 'title': 'kurwa', 'value': 'отстой', 'author': 'ненавижу жизнь'}, {'postid': 11, 'title': 'Повеситься', 'value': 'Неплохой выбор', 'author': 'размышления'}, {'postid': 12, 'title': 'Нахуй вообще вставал сегодня', 'value': 'лучше бы меня тогда таки сбила машина', 'author': 'По крайней мере, обо мне бы все вспомнили'}, {'postid': 13, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+    <a href="index.py?page=1">1</a> <a href="index.py?page=2>2</a> 3 
+</span>
+
+
+
+
+
+[{'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 3, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+    <a href="index.py?page=1">1</a> <a href="index.py?page=2>2</a> 3 
+</span>
+
+
+
+
+
+[{'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 3, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+    <a href="index.py?page=1">1</a> <a href="index.py?page=2>2</a> 3 
+</span>
+
+
+
+
+
+[{'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 3, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+    <a href="index.py?page=1">1</a> <a href="index.py?page=2">2</a> 3 
+</span>
+
+
+
+
+
+[{'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 3, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<span class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</span>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<div class="pagebar">
+     1 <a href="index.py?page=2">2</a> <a href="index.py?page=3">3</a>
+</div>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<div class="pagebar">
+     1 <a href="index.py?page=2" class="pagebar">2</a> <a href="index.py?page=3" class="pagebar">3</a>
+</div>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<div class="pagebar">
+     1 <a href="index.py?page=2" class="pagebar">2</a> <a href="index.py?page=3" class="pagebar">3</a>
+</div>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<div class="pagebar">
+    <a href="index.py?page=1" class="pagebar">1</a> 2 <a href="index.py?page=3" class="pagebar">3</a>
+</div>
+
+
+
+
+
+[{'postid': 4, 'title': 'What to do to become nice guy', 'value': 'You just need to burn with my brain', 'author': 'your mother'}, {'postid': 5, 'title': 'Туман', 'value': 'Туман, туман.<br>Окутал землю вновь.<br>Далеко, далеко<br>За туманами любовь<br>', 'author': 'Гражданская оборона'}, {'postid': 6, 'title': 'Как же всё заебало', 'value': 'Хочу сдохнуть', 'author': 'Лучше бы и не рождался'}, {'postid': 7, 'title': 'Как листовка, так и я', 'value': 'Новые родятся да командиры - <br> это хорошо, это так и надо<br>что бы ни сказали - не станем спорить<br>что бы ни дарили - не станем верить', 'author': 'Гражданская оборона'}, {'postid': 8, 'title': 'О, пошли вы все нахуй', 'value': 'Жратый народище мацает свет,<br>Пузырные жопы, лихие дела<br>Я в лужу упал, чтоб не видеть ваш нет<br>Но там отражаются ваши тела', 'author': 'Гражданская оборона'}, {'postid': 9, 'title': 'Люди', 'value': 'Люди ми тільки тоді, як дуже сильно любимо.<br>Тільки тоді, коли любимо мы, можемо зватись людьми', 'author': 'Бумбокс'}, {'postid': 10, 'title': 'kurwa', 'value': 'отстой', 'author': 'ненавижу жизнь'}, {'postid': 11, 'title': 'Повеситься', 'value': 'Неплохой выбор', 'author': 'размышления'}, {'postid': 12, 'title': 'Нахуй вообще вставал сегодня', 'value': 'лучше бы меня тогда таки сбила машина', 'author': 'По крайней мере, обо мне бы все вспомнили'}, {'postid': 13, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<div class="pagebar">
+    <a href="index.py?page=1" class="pagebar">1</a> <a href="index.py?page=2" class="pagebar">2</a> 3 
+</div>
+
+
+
+
+
+[{'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 3, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+
+
+
+
+<div class="pagebar">
+     1 <a href="index.py?page=2" class="pagebar">2</a> <a href="index.py?page=3" class="pagebar">3</a>
+</div>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<div class="pagebar">
+     1 <a href="index.py?page=2" class="pagebar">2</a> <a href="index.py?page=3" class="pagebar">3</a>
+</div>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<div>
+     1 <a href="index.py?page=2" class="pagebar">2</a> <a href="index.py?page=3" class="pagebar">3</a>
+</div>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<div>
+     1 <a href="index.py?page=2" class="pagebar">2</a> <a href="index.py?page=3" class="pagebar">3</a>
+</div>
+
+
+
+
+
+[{'postid': 14, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 15, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 16, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 17, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 18, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 19, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 20, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 21, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 22, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}, {'postid': 23, 'title': 'kekpas', 'value': 'lelpas', 'author': 'mdapas'}]
+
+
+
+
+
+<div>
+    <a href="index.py?page=1" class="pagebar">1</a> <a href="index.py?page=2" class="pagebar">2</a> 3 
+</div>
+
+
+
+
+
+[{'postid': 0, 'title': 'ZeroID post', 'value': 'What to do if i alone', 'author': 'me'}, {'postid': 1, 'title': 'OneID post', 'value': "I don't know what she is doing now on maths", 'author': 'me'}, {'postid': 2, 'title': 'Your Mother', 'value': 'My brother', 'author': 'My killer'}, {'postid': 3, 'title': 'About mood', 'value': 'You just need to burn with my brain', 'author': 'your mother'}]
+
+

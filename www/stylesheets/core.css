@@ -1,0 +1,37 @@
+@import url("screen.css");
+@import url("non-screen.css") handheld;
+@import url("non-screen.css") only screen and (max-device-width:640px);
+
+.mamka-img {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	padding: 0;
+	border: 0;
+	margin: 0;
+	opacity: 0.05;
+}
+
+.nohover:hover {
+	text-decoration: none;
+}
+
+span.guides {
+    float: right;
+}
+
+.guides {
+    align-self: right;
+    text-align: right;
+    display: block-inline;
+    /*position: absolute;*/
+    right: 0;
+    padding-right: 20px;
+    text-align: right;
+    font-style: italic;
+}
+
+a {
+    text-decoration: none;
+}
+
