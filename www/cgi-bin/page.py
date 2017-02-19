@@ -19,7 +19,7 @@ def get_content(path):
         content = content_file.read()
     return content
 
-default_content = get_content('/defaults/post_page.html')
+default_content = get_content('defaults/post_page.html')
 
 form = cgi.FieldStorage()
 postid = form.getfirst('post', 0)

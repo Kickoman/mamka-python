@@ -21,8 +21,8 @@ def get_content(path):
         content = content_file.read()
     return content
 
-default_content = get_content('/defaults/default_content.html')
-article = get_content('/defaults/article.html')
+default_content = get_content('defaults/default_content.html')
+article = get_content('defaults/article.html')
 
 info = cgi.FieldStorage()
 current_page = info.getfirst('page', 1)

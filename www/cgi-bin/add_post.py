@@ -22,7 +22,7 @@ def logger(text):
     err.write(str(text) + '\n')
 
 
-content = get_content('/defaults/add_page.html')
+content = get_content('defaults/add_page.html')
 
 info = cgi.FieldStorage()
 value = info.getfirst('content', 'fuck')

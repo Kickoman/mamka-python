@@ -46,7 +46,7 @@ def getPage(page):
 def computePages(currentPage):
     currentPage = int(currentPage)
     all_pages = len(catalog_dict['news']) // 10 + (1 if len(catalog_dict['news']) % 10 != 0 else 0)
-    page_bar = get_content('/defaults/pages_bar.html')
+    page_bar = get_content('defaults/pages_bar.html')
 
     result = {}
 
