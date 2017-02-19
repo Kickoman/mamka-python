@@ -8,8 +8,10 @@ import json
 
 err = open('err.log', 'a')
 
+
 def enc_print(string='', encoding='utf8'):
     sys.stdout.buffer.write(string.encode(encoding) + b'\n')
+
 
 def get_content(path):
     content = ""
@@ -17,14 +19,12 @@ def get_content(path):
         content = content_file.read()
     return content
 
-default_content = get_content('../defaults/add_page.html')
+default_content = get_content('/defaults/add_page.html')
 
-
-value = {"value" : news_dict[i]['value'], "author" : news_dict[i]['author'],
-         "title" : news_dict[i]['title']}
+os.system('python3 adding_post.py {} {} {}'.format(title, value, author))
 
 sys.stderr.write('Printing site...\n')
-### PRINTING SITE
+# PRINTING SITE
 enc_print('Content-type: text/html\n')
 enc_print(default_content.format(**value))
 

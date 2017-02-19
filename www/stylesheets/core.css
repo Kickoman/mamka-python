@@ -35,3 +35,40 @@ a {
     text-decoration: none;
 }
 
+.btm-pages {
+  display: flex;
+  justify-content: center;
+}
+
+.btm-page {
+  background: #5B7F98;
+  font-size: 14pt;
+  width: 27px;
+  padding: 1px;
+  text-align: center;
+  margin: 13px;
+  border-radius: 100%;
+  color: white;
+}
+
+.btm-page:hover {
+  text-decoration: none;
+  background: #4d7198;
+  color: white;
+}
+
+.btm-page.selected {
+  background: #7c334f;
+}
+
+.postlink:hover {
+  text-decoration: none;
+  color: #417090;
+}
+
+.btm-dots {
+  padding-left: 5px;
+  padding-right: 5px;
+  height: 100%;
+  font-size: 28pt;
+}

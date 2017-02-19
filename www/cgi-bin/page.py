@@ -8,6 +8,7 @@ import json
 import get_post
 
 err = open('err.log', 'a')
+err = sys.stderr
 
 def enc_print(string='', encoding='utf8'):
     sys.stdout.buffer.write(string.encode(encoding) + b'\n')
@@ -18,8 +19,7 @@ def get_content(path):
         content = content_file.read()
     return content
 
-default_content = get_content('../defaults/post_page.html')
-
+default_content = get_content('/defaults/post_page.html')
 
 form = cgi.FieldStorage()
 postid = form.getfirst('post', 0)
