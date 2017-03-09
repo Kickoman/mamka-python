@@ -1,4 +1,4 @@
-# import sys
+import sys
 # import os
 import json
 import html
@@ -6,6 +6,22 @@ import markdown
 # import cgi
 
 # info = cgi.FieldStorage()
+
+def addComment(comment):
+    comment['id'] = int(html.escape(comment['id']))
+    comment['author'] = html.escape(comment['author'])
+    comment['value'] = html.escape(comment['value'])
+
+    comment['value'] = markdown.markdown(comment['value'])
+
+    with open('storage/comments.json', 'r') as comments_list:
+        all_comments = comments_list.read()
+    all_comments_list = json.loads(all_comments)
+    # sys.stderr.write('\n\n######\n\n' + str(all_comments_list['comments'][comment['id']]) + '\n\n')
+    all_comments_list['comments'][comment['id']]['comments'].append(comment)
+    with open('storage/comments.json', 'w') as file_to_write:
+        file_to_write.write(str(all_comments_list).replace(
+            '"', '\\"').replace("'", '"'))
 
 
 def addPost(post):

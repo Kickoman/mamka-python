@@ -21,13 +21,30 @@ def get_content(path):
 catalog = get_content('storage/news.json')
 catalog_dict = json.loads(catalog)
 
+comments = get_content('storage/comments.json')
+comments_dict = json.loads(comments)
+
+
+def getPostComments(x):
+    x = int(x)
+    cur_comments = comments_dict['comments'][x]
+    comment_block = get_content('defaults/comment_block.html')
+    result = ""
+    for i in cur_comments['comments']:
+        cur_block = comment_block.format(**i)
+        result += cur_block
+    if result == "":
+        result = "<p>Камэнтароў няма! Вы хто такія?</p>"
+    return result
+
 
 def getPost(x):
     post = catalog_dict['news'][x]
     res = {'postid' : x,
            'title' : post['title'],
            'value' : post['value'],
-           'author' : post['author']}
+           'author' : post['author'],
+           'comments' : getPostComments(x)}
     return res
 
 

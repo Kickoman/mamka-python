@@ -72,3 +72,7 @@ a {
   height: 100%;
   font-size: 28pt;
 }
+
+p.comments {
+    /*border-top: .2em double #d3ccc1;*/
+}

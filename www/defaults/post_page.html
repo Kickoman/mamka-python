@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <head>
+<head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=640">
@@ -11,11 +11,11 @@
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="javascripts/headsmart.min.js"></script>-->
     <title>Mamka | {title}</title>
-  </head>
-  <body>
-    <a id="forkme_banner" href="https://github.com/Kickoman/">View on GitHub</a>
-    <div class="shell">
-      <header>
+</head>
+<body>
+<a id="forkme_banner" href="https://github.com/Kickoman/">View on GitHub</a>
+<div class="shell">
+    <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
             <a class="nohover" href="/cgi-bin/index.py"><h1>Mamka</h1></a>
@@ -24,41 +24,76 @@
           <span class="left-tail"></span>
           <span class="right-tail"></span>
         </span>
-      </header>
+    </header>
 
-      <section id="downloads">
+    <section id="downloads">
         <span class="inner">
-          <a href="http://natribu.org/by/" target="_blank" class="vk"><em>staronka</em> BY</a><a href="http://natribu.org/" target="_blank" class="twitter"><em>staronka</em> RU</a>
+          <a href="http://natribu.org/by/" target="_blank" class="vk"><em>staronka</em> BY</a><a
+                href="http://natribu.org/" target="_blank" class="twitter"><em>staronka</em> RU</a>
         </span>
-      </section>
-      <span class="banner-fix"></span>
-      <section id="main_content">
+    </section>
+    <span class="banner-fix"></span>
+    <section id="main_content">
         <h1 class="header-level-1">
-        {title}
+            {title}
         </h1>
 
         <!-- <span class="guides"> example of text </span> -->
 
         <p>
-        {value}
+            {value}
         </p>
 
         <blockquote>{author}</blockquote>
 
-      </section>
-      <footer>
+        <!--<font color="red" title="temporary">Raździaliaĺnaja palasa</font> <br>-->
+        <p class="comments">
+        <h2 class="header-level-2">Камэнтары:</h2>
+        {comments}
+        </p>
+
+        <h2 class="header-level-2">Пакінуць камэнтар:</h2>
+        <form action="/cgi-bin/add_comment.py" method="post">
+            <input type="hidden" value="{postid}" name="id">
+            Аўтар:<br>
+            <input type="text" name="author" required="required"><br>
+            Камэнтар:<br>
+            <textarea name="value" cols="60" rows="4" placeholder="Markdown можна" required="required"></textarea>
+            <br>
+            <input type="submit" value="Push!">
+        </form>
+
+     <!--   <form action="/add" method="post" class="add-form">
+          Каму прысьвечаны пост:<font color="red" title="Абавязковае">*</font>
+
+          <span class="guides" title="Markdown">
+              <a href="pages/md-guide.html" class="nohover">Гайд па разьметцы</a>
+          </span>
+
+          <br>
+          <input type="text" name="title" align="left" required="required" title="Абавязковае">
+          <br><br>
+          Апісаньне:<font color="red" title="Абавязковае">*</font><br>
+          <textarea name="content" cols="60" rows="6" placeholder="Разьметка Markdown падтрымоўваецца" required="required" title="Абавязковае"></textarea><br><br>
+          Тэгі (аўтар, цытата, што хочаце):<br>
+          <input type="text" name="tags" class="tags"><br><br>
+          <input type="submit" value="Pardoĺ!">
+        </form>-->
+    </section>
+    <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <p>prajekt karystaĺnika <a href="https://github.com/Kickoman">Kickoman</a> možna znajści na <a href="https://github.com/Kickoman/mygithubpage/tree/gh-pages">GitHub</a></p>
+            <p>prajekt karystaĺnika <a href="https://github.com/Kickoman">Kickoman</a> možna znajści na <a
+                    href="https://github.com/Kickoman/mygithubpage/tree/gh-pages">GitHub</a></p>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
         </span>
         <p>Zgieneravana z dapamohaj <a href="https://pages.github.com">GitHub Pages</a> z temaj Merlot</p>
         <span class="octocat"></span>
-      </footer>
-    </div>
-    <img class="mamka-img" src="images/mamka_down_right.png" alt="Typical mamka" height="200">
-    
-  </body>
+    </footer>
+</div>
+<img class="mamka-img" src="images/mamka_down_right.png" alt="Typical mamka" height="200">
+
+</body>
 </html>
