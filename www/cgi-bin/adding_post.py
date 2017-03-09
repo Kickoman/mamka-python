@@ -45,6 +45,17 @@ def addPost(post):
         file_to_write.write(str(all_posts_list).replace(
             '"', '\\"'). replace("'", '"'))
 
+    # ADDING EMPTY COMMENTS FOR THIS POST
+
+    empty_comments = {"id" : 0, "comments" : []}
+    with open('storage/comments.json', 'r') as file_content:
+        all_com = file_content.read()
+    all_com_list = json.loads(all_com)
+    all_com_list['comments'].append(empty_comments)
+    with open('storage/comments.json', 'w') as file_to_write:
+        file_to_write.write(str(all_com_list).replace(
+            '"', '\\"').replace("'", '"'))
+
 #   Format for posts:
 #{
 #     "id": 0, // Post id (Does not needed)
