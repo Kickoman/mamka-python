@@ -18,11 +18,15 @@ def addComment(comment):
     with open('storage/comments.json', 'r') as comments_list:
         all_comments = comments_list.read()
     all_comments_list = json.loads(all_comments)
-    # sys.stderr.write('\n\n######\n\n' + str(all_comments_list['comments'][comment['id']]) + '\n\n')
+
     all_comments_list['comments'][comment['id']]['comments'].append(comment)
     with open('storage/comments.json', 'w') as file_to_write:
         file_to_write.write(str(all_comments_list).replace(
             '"', '\\"').replace("'", '"'))
+
+    # NOTIFYING
+    post_link = "http://mamka.me/cgi-bin/page.py?post=" + str(comment['id'])
+    os.system('python3 cgi-bin/notify.py -c' + post_link + " " + comment['author'])
 
 
 def addPost(post):
@@ -61,7 +65,7 @@ def addPost(post):
 
     # NOTIFYING
     post_link = "http://mamka.me/cgi-bin/page.py?post=" + str(post_id)
-    os.system('python3 cgi-bin/notify.py ' + post_link + " " + post['title'])
+    os.system('python3 cgi-bin/notify.py -p' + post_link + " " + post['title'])
 
 #   Format for posts:
 #{
