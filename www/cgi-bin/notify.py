@@ -18,7 +18,7 @@ if argv[1] == "-c":
     author = ""
     for i in range(3, len(argv)):
         author += argv[i]
-    test = "На мамцы новы камэнтар ад" + author + "! Давайце прачытаем.\n\
+    test = "На мамцы новы камэнтар ад " + author + "! Давайце прачытаем.\n\
             \nЧытаць: " + str(argv[2])
 else:
     # Post notifying

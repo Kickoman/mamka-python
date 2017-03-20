@@ -26,7 +26,7 @@ def addComment(comment):
 
     # NOTIFYING
     post_link = "http://mamka.me/cgi-bin/page.py?post=" + str(comment['id'])
-    os.system('python3 cgi-bin/notify.py -c' + post_link + " " + comment['author'])
+    os.system('python3 cgi-bin/notify.py -c ' + post_link + " " + comment['author'])
 
 
 def addPost(post):
@@ -65,7 +65,7 @@ def addPost(post):
 
     # NOTIFYING
     post_link = "http://mamka.me/cgi-bin/page.py?post=" + str(post_id)
-    os.system('python3 cgi-bin/notify.py -p' + post_link + " " + post['title'])
+    os.system('python3 cgi-bin/notify.py -p ' + post_link + " " + post['title'])
 
 #   Format for posts:
 #{
