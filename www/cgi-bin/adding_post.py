@@ -1,11 +1,12 @@
-import sys
-# import os
+# import sys
+import os
 import json
 import html
 import markdown
 # import cgi
 
 # info = cgi.FieldStorage()
+
 
 def addComment(comment):
     comment['id'] = int(html.escape(comment['id']))
@@ -45,9 +46,11 @@ def addPost(post):
         file_to_write.write(str(all_posts_list).replace(
             '"', '\\"'). replace("'", '"'))
 
+    post_id = len(all_posts_list['news']) - 1
+
     # ADDING EMPTY COMMENTS FOR THIS POST
 
-    empty_comments = {"id" : 0, "comments" : []}
+    empty_comments = {"id": 0, "comments": []}
     with open('storage/comments.json', 'r') as file_content:
         all_com = file_content.read()
     all_com_list = json.loads(all_com)
@@ -55,6 +58,10 @@ def addPost(post):
     with open('storage/comments.json', 'w') as file_to_write:
         file_to_write.write(str(all_com_list).replace(
             '"', '\\"').replace("'", '"'))
+
+    # NOTIFYING
+    post_link = "http://mamka.me/cgi-bin/page.py?post=" + str(post_id)
+    os.system('python3 cgi-bin/notify.py ' + post_link + " " + post['title'])
 
 #   Format for posts:
 #{
