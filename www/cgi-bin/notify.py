@@ -26,7 +26,7 @@ if argv[1] == "-c":
     # Comment notifying
     author = ""
     for i in range(3, len(argv)):
-        author += argv[i]
+        author += str(argv[i]) + " "
 
     test = comment_news[random.randint(0,
                                        len(comment_news) - 1)].format(author=author,
