@@ -26,7 +26,9 @@ if argv[1] == "-c":
     # Comment notifying
     author = ""
     for i in range(3, len(argv)):
-        author += str(argv[i]) + " "
+        author += str(argv[i])
+        if i < len(argv) - 1:
+            author += " "
 
     test = comment_news[random.randint(0,
                                        len(comment_news) - 1)].format(author=author,
@@ -38,7 +40,10 @@ else:
     # test = "Новы пост на Мамцы з назовам: "
     title = ""
     for i in range(3, len(argv)):
-        title += str(argv[i]) + " "
+        title += str(argv[i])
+        if i < len(argv) - 1:
+            title += " "
+
     test = post_news[random.randint(0,
                                     len(post_news) - 1)].format(title=title,
                                                                 postlink=str(argv[2]))
