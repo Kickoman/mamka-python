@@ -3,8 +3,9 @@
 
 import sys
 import json
+import io
 
-err = open('err.log', 'a')
+err = io.open('err.log', 'a', encoding='utf-8')
 err = sys.stderr
 
 
@@ -14,7 +15,7 @@ def enc_print(string='', encoding='utf8'):
 
 def get_content(path):
     content = ""
-    with open(path) as content_file:
+    with io.open(path, 'r', encoding='utf-8') as content_file:
         content = content_file.read()
     return content
 

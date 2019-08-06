@@ -5,8 +5,9 @@ import cgi
 import sys
 import os
 import json
+import io
 
-err = open('err.log', 'a')
+err = io.open('err.log', 'a', encoding='utf-8')
 
 
 def enc_print(string='', encoding='utf8'):
@@ -15,7 +16,7 @@ def enc_print(string='', encoding='utf8'):
 
 def get_content(path):
     content = ""
-    with open(path) as content_file:
+    with io.open(path, encoding='utf-8') as content_file:
         content = content_file.read()
     return content
 

@@ -3,6 +3,7 @@ import os
 import json
 import html
 import markdown
+import io
 # import cgi
 
 # info = cgi.FieldStorage()
@@ -15,12 +16,12 @@ def addComment(comment):
 
     comment['value'] = markdown.markdown(comment['value'])
 
-    with open('storage/comments.json', 'r') as comments_list:
+    with io.open('storage/comments.json', 'r', encoding='utf-8') as comments_list:
         all_comments = comments_list.read()
     all_comments_list = json.loads(all_comments)
 
     all_comments_list['comments'][comment['id']]['comments'].append(comment)
-    with open('storage/comments.json', 'w') as file_to_write:
+    with io.open('storage/comments.json', 'w', encoding='utf-8') as file_to_write:
         file_to_write.write(str(all_comments_list).replace(
             '"', '\\"').replace("'", '"'))
 
@@ -42,11 +43,11 @@ def addPost(post):
 
     # POST ADDING
 
-    with open('storage/news.json', 'r') as file_content:
+    with io.open('storage/news.json', 'r', encoding='utf-8') as file_content:
         all_posts = file_content.read()
     all_posts_list = json.loads(all_posts)
     all_posts_list['news'].append(post)  # post must be a dictionary
-    with open('storage/news.json', 'w') as file_to_write:
+    with io.open('storage/news.json', 'w', encoding='utf-8') as file_to_write:
         file_to_write.write(str(all_posts_list).replace(
             '"', '\\"'). replace("'", '"'))
 
@@ -55,11 +56,11 @@ def addPost(post):
     # ADDING EMPTY COMMENTS FOR THIS POST
 
     empty_comments = {"id": 0, "comments": []}
-    with open('storage/comments.json', 'r') as file_content:
+    with io.open('storage/comments.json', 'r', encoding='utf-8') as file_content:
         all_com = file_content.read()
     all_com_list = json.loads(all_com)
     all_com_list['comments'].append(empty_comments)
-    with open('storage/comments.json', 'w') as file_to_write:
+    with io.open('storage/comments.json', 'w', encoding='utf-8') as file_to_write:
         file_to_write.write(str(all_com_list).replace(
             '"', '\\"').replace("'", '"'))
 

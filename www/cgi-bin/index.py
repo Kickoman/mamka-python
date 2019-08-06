@@ -6,8 +6,9 @@ import sys
 import os
 import json
 import get_post
+import io
 
-err = open('err.log', 'a')
+err = io.open('err.log', 'a', encoding='utf-8')
 err = sys.stderr
 
 
@@ -17,12 +18,12 @@ def enc_print(string='', encoding='utf8'):
 
 def get_content(path):
     content = ""
-    with open(path) as content_file:
+    with io.open(path, encoding='utf-8') as content_file:
         content = content_file.read()
     return content
 
 default_content = get_content('defaults/default_content.html')
-article = get_content('defaults/article.html')
+article = get_content('defaults/article.html').encode('utf-8')
 
 info = cgi.FieldStorage()
 current_page = info.getfirst('page', 1)

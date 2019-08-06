@@ -4,6 +4,7 @@
 import cgi
 import sys
 import adding_post
+import io
 
 err = sys.stderr
 
@@ -14,7 +15,7 @@ def enc_print(string='', encoding='utf8'):
 
 def get_content(path):
     # content = ''
-    with open(path) as content_file:
+    with io.open(path, encoding='utf-8') as content_file:
         content = content_file.read()
     return content
 
