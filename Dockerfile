@@ -1,4 +1,4 @@
-FROM python:alpine
+FROM python:3.9-alpine
 
 RUN mkdir -p /usr/src/newmamka
 RUN pip3 install markdown

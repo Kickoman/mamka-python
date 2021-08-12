@@ -33,7 +33,7 @@ toformat = get_post.getPage(current_page)
 news_list = ""
 
 for i in toformat:
-    current_post = article.format(**i)
+    current_post = article.decode("utf-8").format(**i)
     news_list = current_post + news_list
 
 sys.stderr.write('Printing site...\n')
